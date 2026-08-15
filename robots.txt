@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://km4221897-cloud.github.io/gharib2008/sitemap.xml
